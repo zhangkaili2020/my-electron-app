@@ -1,6 +1,7 @@
 {
   "name": "my-electron-app",
   "version": "1.0.0",
+  "authors": "kl",
   "description": "electron app",
   "main": "main.js",
   "scripts": {
